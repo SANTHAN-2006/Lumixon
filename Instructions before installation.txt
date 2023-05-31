@@ -1,0 +1,16 @@
+            
+-----------------------> W E L C O M   T O   L U M I X O N - 1 <--------------------------
+
+---> This is the initial release of the AI "Lumixon".
+
+---> Download the zip file from the github Respository
+
+---> Unzip the files to your desired location.
+
+---> Navigate as Shown   lumixon.zip > build > exe.win-amd64-3.10 > main.exe
+
+---> Navigate to the main.exe file as shown above and open it. Keep the file if any issue occurs with windows defender or antivirus
+
+( Pro tip - Turn off any antivirus before installing the application )
+
+---> Finally open the main.exe and that's it "Lumixon" is yours!!
