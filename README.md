@@ -7,3 +7,4 @@ This AI answers any question from user and provides the direct answer from web, 
 4. The AI is not trained to access real time features like "weather" for now.
 5. if any error occurs during the installtion, close the main.exe and run it as "Administrator" 
 6. Check The "Releases" Section for the app's zip file
+7. Regular updates are needed
