@@ -1,6 +1,8 @@
             
 -----------------------> W E L C O M   T O   L U M I X O N - 1 <--------------------------
 
+-----  (  PLEASE NOTE THAT ANY PREREQUISITES ARE NOT NEEDED TO INSTALL THIS APP, EVERYTHING IS BUILT USING pycxfreeze )  ----------
+
 ---> This is the initial release of the AI "Lumixon".
 
 ---> Download the zip file from the github Respository
