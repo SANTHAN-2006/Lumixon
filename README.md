@@ -8,3 +8,4 @@ This AI answers any question from user and provides the direct answer from web, 
 5. if any error occurs during the installtion, close the main.exe and run it as "Administrator" 
 6. Check The "Releases" Section for the app's zip file
 7. Regular updates are needed
+8. Another basic line here!
